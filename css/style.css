@@ -1,0 +1,39 @@
+body{
+    border: 2px solid black;
+    background-color: #ffff;
+}
+table{
+   background-color:white;
+   background-image: url(../Imagenes/beautiful-color-palettes-combinations-schemes-she.png);
+}
+.gris{
+    background-color: #ffdbe6;
+    font-family: 'Playfair Display', serif;
+    padding: 15px;
+}
+
+
+.unidad{
+    
+    font-family: 'Playfair Display', serif;
+    padding: 15px;
+}
+
+.columna2:hover{
+    background-color:#ffdbe6;
+}
+.columna3:hover{
+    background-color:#ffdbe6;
+}
+.columna4:hover{
+    background-color:#ffdbe6;
+}
+.columna5:hover{
+    background-color:#ffdbe6;
+}
+.columna6:hover{
+    background-color:#ffdbe6;
+}
+.columna7:hover{
+    background-color:#ffdbe6;
+}
